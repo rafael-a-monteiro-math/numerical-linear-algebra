@@ -1,0 +1,12 @@
+name: "Rafael Monteiro-website"
+output_dir: "."
+navbar:
+  title: "Notes and codes related to Dynamic mode decomposition"
+  left:
+    - text: "Back to R. Monteiro's website"
+      href: https://sites.google.com/view/rafaelmonteiro-math/home
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css  

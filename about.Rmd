@@ -1,0 +1,9 @@
+name: "Rafael_Monteiro:Discussion_about_DMD"
+output_dir: "."
+navbar:
+  title: "Rafael Monteiro: Discussion about DMD"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
